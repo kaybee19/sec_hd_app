@@ -21,8 +21,8 @@ Required:
 - Download repository files
 - Oracle APEX Workspace
 
-- login to Oracle APEX workspace (for online)
-- install Oracle APEX on local host and login to workspace (for offline)
-- go to app bulilder and select import
-- choose `f104.sql` from downloaded repository files, select `Database Application, Page or Component Export` file type
-- proceed and install application including supporting objects
+* login to Oracle APEX workspace (for online)
+* install Oracle APEX on local host and login to workspace (for offline)
+* go to app bulilder and select import
+* choose `f104.sql` from downloaded repository files, select `Database Application, Page or Component Export` file type
+* proceed and install application including supporting objects
