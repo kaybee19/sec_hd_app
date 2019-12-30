@@ -1,2 +1,3 @@
-# sec_hd_app
-Help Desk Application using Oracle APEX
+# SEC_HD_APP
+
+A Help Desk Application using Oracle APEX
