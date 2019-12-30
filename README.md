@@ -12,14 +12,14 @@ Installation is very easy, though an Oracle account with an active workspace is 
 
 The application can also be installed on the local host. A active and working Oracle APEX enviroment must be running.
 
-
-
-## Installation
-
 Required:
 
 - Download repository files
 - Oracle APEX Workspace
+
+
+
+## Installation
 
 * login to Oracle APEX workspace (for online)
 * install Oracle APEX on local host and login to workspace (for offline)
