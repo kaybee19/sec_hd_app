@@ -24,7 +24,7 @@ Required:
 
 * login to Oracle APEX workspace (for online)
 * install Oracle APEX on local host and login to workspace (for offline)
-* go to app bulilder and select import
+* go to `APP BUILDER` and select `IMPORT`
 * choose `f104.sql` from downloaded repository files, select `Database Application, Page or Component Export` file type
 * proceed and install application including supporting objects
 
@@ -32,25 +32,25 @@ Required:
 
 ## Running SQL Scripts
 
-* go to sql workshop and select sql scripts
+* go to `SQL WORKSHOP` and select `SQL SCRIPTS`
 * chooose upload and import all downloaded scripts
-* run scripts in order 1, 2, 3
+* run scripts in order 1, 2, and then 3
 
 
 
 ## Demo
 
-A script with dummy insert data, scirpt 4, is available. A live demo is available for testing.
+A script with dummy insert data, scirpt 4, is available. A live demo is also available for testing.
 
 
 URL `https://apex.oracle.com/pls/apex/f?p=80822:LOGIN_DESKTOP::::::`
 
 
-Admin login `kaybee` password `kaybee`
+Admin login: `kaybee` password: `kaybee`
 
-Support `support1` passowrd `123456`
+Support: `support1` passowrd: `123456`
 
-User `janedoe` password `123456`
+User: `janedoe` password: `123456`
 
 
 
