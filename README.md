@@ -43,9 +43,13 @@ Required:
 A script with dummy insert data, scirpt 4, is available. A live demo is available for testing.
 
 
-`https://apex.oracle.com/pls/apex/f?p=80822:LOGIN_DESKTOP::::::`
+URL `https://apex.oracle.com/pls/apex/f?p=80822:LOGIN_DESKTOP::::::`
+
+
 Admin login `kaybee` password `kaybee`
+
 Support `support1` passowrd `123456`
+
 User `janedoe` password `123456`
 
 
